@@ -29,7 +29,6 @@ Bar and line charts
 Data cleaning and structured analysis
 
 Workbook Structure
-
 Executive Dashboard	Management-level KPI dashboard and charts
 Raw Data	Original synthetic transaction-level dataset
 Cleaned Data	Analysis-ready version
