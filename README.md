@@ -1,5 +1,6 @@
 # Financial_Performance_Profitability_Analysis
 This project analyzes financial performance, profitability, budget attainment, and customer/portfolio contribution using transaction-level business data.
+
 Business Problem
 Management wants to understand:
 How much revenue is being generated?
@@ -8,6 +9,7 @@ Are actual revenues meeting budget?
 Where are margins strongest or weakest?
 Which customers contribute significant revenue and profit?
 What actions could improve profitable growth?
+
 Objectives
 Measure revenue, cost, gross profit, and net profit.
 Calculate gross and net margins.
@@ -17,6 +19,7 @@ Analyze channel and customer-segment profitability.
 Identify customers with high revenue and profit contribution.
 Build an executive-ready Excel dashboard.
 Translate findings into business recommendations.
+
 Tools Used
 Microsoft Excel
 Excel Tables
@@ -24,8 +27,9 @@ Formulas and KPI calculations
 Conditional formatting
 Bar and line charts
 Data cleaning and structured analysis
+
 Workbook Structure
-Sheet	Purpose
+
 Executive Dashboard	Management-level KPI dashboard and charts
 Raw Data	Original synthetic transaction-level dataset
 Cleaned Data	Analysis-ready version
@@ -37,9 +41,7 @@ Segment Analysis	Enterprise, SMB and Consumer performance
 Monthly Trend	Monthly revenue, profit and budget trend
 Budget Variance	Actual vs budget by region and category
 Customer Profitability	Customer-level revenue and profit analysis
-Key Insights	Business findings and recommendations
-Data Dictionary	Field definitions
-Interview Prep	Interview questions and answer points
+
 Key KPIs
 Gross Profit = Revenue − COGS
 Gross Margin = Gross Profit / Revenue
